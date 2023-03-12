@@ -14,6 +14,10 @@
     align-items: center;
     border-radius: 10px;
 }
+.box h2{
+    font-size: 20px;
+
+}
 
 @media screen and (max-width:550px){
     .box{
